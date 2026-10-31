@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data
+participants.json
+hackathon_config.json
+
+# Backups
+app_backup_working.py
+
+# Old extracted project folders
+opensource_contribution_hq/
+opensource_contribution_hq_v31/
+opensource_contribution_hq_v32/
+
+# Agent files
+.agents/
+
+# Environment secrets
+.env
+secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
